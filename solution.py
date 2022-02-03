@@ -25,7 +25,7 @@ def welcome_assignment_answers(question):
         answer = 4
     else:
         answer = "mtls"
-    return(answer)
+    return answer
 # Complete all the questions.
 
 
