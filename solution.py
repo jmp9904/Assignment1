@@ -24,7 +24,7 @@ def welcome_assignment_answers(question):
     elif question == "What layer of the TCP/IP model the protocol TCP belongs to? - The answer should be a numeric number":
         answer = 4
     else:
-        answer = "mtls"
+        answer = "42b76fe51778764973077a5a94056724"
     return answer
 # Complete all the questions.
 
